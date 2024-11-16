@@ -1,6 +1,6 @@
 package lv1;
 
-public class dirtndml_rotndhk_ejttpa {
+public class divisorCountAddition {
 
     public int solution(int left, int right) {
         int answer = 0;

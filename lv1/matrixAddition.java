@@ -1,6 +1,6 @@
 package lv1;
 
-public class godfufdml_ejttpa {
+public class matrixAddition {
     public int[][] solution(int[][] arr1, int[][] arr2) {
 
         int[][] answer = new int[arr1.length][arr1[0].length];

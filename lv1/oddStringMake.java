@@ -1,6 +1,6 @@
 package lv1;
 
-public class dltkdgks_answk_aksemfrl {
+public class oddStringMake {
     public String solution(String s) {
         String answer = "";
 

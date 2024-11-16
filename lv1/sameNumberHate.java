@@ -1,6 +1,6 @@
 package lv1;
 
-public class rkxdms_tntwksms_tlfjgdj {
+public class sameNumberHate {
     public int[] solution(int []arr) {
 
         int count = 1;

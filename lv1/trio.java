@@ -1,6 +1,6 @@
 package lv1;
 
-public class tkachdtk {
+public class trio {
     public int solution(int[] number) {
         int answer = 0;
 

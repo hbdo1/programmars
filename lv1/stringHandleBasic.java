@@ -1,6 +1,6 @@
 package lv1;
 
-public class answkduf_ekfnrl_rlqhs {
+public class stringHandleBasic {
     public boolean solution(String s) {
         boolean answer = true;
         if ((s.length() == 4 || s.length() == 6)) {

@@ -1,6 +1,6 @@
 package lv1;
 
-public class rkdnsep_rmfwk_rkwudhrl {
+public class middleLetterBring {
     public String solution(String s) {
         String answer = "";
         int count = s.length();

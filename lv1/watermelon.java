@@ -1,6 +1,6 @@
 package lv1;
 
-public class tnqktnqktnqk {
+public class watermelon {
 
     public String solution(int n) {
         String answer = "";

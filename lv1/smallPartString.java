@@ -1,6 +1,6 @@
 package lv1;
 
-public class zmzlrk_wkrdms_qnqnsanswkduf {
+public class smallPartString {
     public int solution(String t, String p) {
         int answer = 0;
         //기준 숫자의 길이

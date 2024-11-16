@@ -1,6 +1,6 @@
 package lv1;
 
-public class qnwhrgks_rmador_rPtksgkrl {
+public class lackingAmountCalculate {
     public long solution(int price, long money, int count) {
         long answer = 0;
         for (int i = 1; i <= count; i++) {

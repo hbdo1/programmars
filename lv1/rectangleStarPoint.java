@@ -2,7 +2,7 @@ package lv1;
 
 import java.util.Scanner;
 
-public class wltkrkrgud_qufWlrrl {
+public class rectangleStarPoint {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

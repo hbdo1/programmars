@@ -1,6 +1,6 @@
 package lv1;
 
-public class chleorhditndhk_clhthrhdqotn {
+public class theGreatestCommonFactorAndtheleastcommonMultiple {
     public long[] solution(int n, int m) {
 
         int temp = n;

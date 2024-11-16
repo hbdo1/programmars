@@ -1,6 +1,6 @@
 package lv1;
 import java.util.*;
-public class answkduf_soflacktnsdmfh_qoclgkrl {
+public class stringDescendingPlace {
 
     public String solution(String s) {
         String answer = "";
