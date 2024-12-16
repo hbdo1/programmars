@@ -1,8 +1,10 @@
+git q
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-lv1,2,3.iml
+*.iml
 .idea
 
 ### Eclipse ###
